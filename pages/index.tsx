@@ -18,9 +18,9 @@ const Home: NextPage = () => {
       </p>
       <Link
         className={styles.highlight}
-        href="/api/generate?imageUrl=https://dub.sh/confpic"
+        href="/api/generate?imageUrl=https://plus.unsplash.com/premium_photo-1710294628449-a5d79727eab9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMnx8fGVufDB8fHx8fA%3D%3D"
       >
-        http://localhost:3000/api/generate?imageUrl=https://dub.sh/confpic
+        Go!
       </Link>
     </div>
   );
